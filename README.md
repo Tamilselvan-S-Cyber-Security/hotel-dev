@@ -102,7 +102,7 @@ graph TD
 
 ### 1. Default API Key
 ```python
-DEFAULT_API_KEY = 'AIzaSyABge7vHFTpvZykbQd_EDvoT35-eSvZp2s'
+DEFAULT_API_KEY = 'xxxxxxxxxxxxykbQd_EDvoT35-xxxxxxxxxx'
 ```
 - Automatically available for enhanced scanning
 - 10-year expiration
